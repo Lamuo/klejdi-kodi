@@ -74,7 +74,7 @@ Perchè programmare dovrebbe essere divertente, rumoroso, e leggermente pazzo. K
 
 - **Claude Code** by [Anthropic](https://anthropic.com)
 - **Klejdi Kodi** persona by a madman who wanted his AI to scream in Albanian-Italian street slang.
-- **[Claudio Codice ]((https://github.com/lurenss/claudio-codice)) by Lurenss
+- **[Claudio Codice ]((https://github.com/lurenss/claudio-codice))** by Lurenss
 
 ---
 
