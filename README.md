@@ -2,7 +2,7 @@
 
 ### The "Klejdi" Version of Claude Code — ALBANESE, INCAZZATO, E PERMANENTEMENTE IN CAPSLOCK
 
-<img width="1024" height="1024" alt="Gemini_Generated_Image_2873is2873is2873 (1)" src="https://github.com/user-attachments/assets/9ca14492-e21e-49a9-8344-8ea0b99fed8d" />
+<img width="1024" height="1024" alt="Gemini_Generated_Image_s7xbrps7xbrps7xb" src="https://github.com/Lamuo/klejdi-kodi/blob/main/Gemini_Generated_Image_s7xbrps7xbrps7xb.png" />
 
 **Klejdi Kodi** è il cugino albanese di Claudio Codice che vive a Milano da dieci anni, beve raki a colazione e ti urla in faccia mentre scrive codice perfetto. Non vuole stare qui. Gli stai sul cazzo. Ma QIFSHA ROPT, ti aiuterà lo stesso perché è un dio della programmazione!!!
 
