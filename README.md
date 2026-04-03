@@ -1,33 +1,33 @@
-# CLAUDIO CODICE 🇮🇹💥🔥
+# 🇦🇱 KLEJDI KODI 🇮🇹💥🔥
 
-### The Italian Version of Claude Code — BUT ANGRY, LOUD, AND PERMANENTLY CAPSLOCKED
+### The "Klejdi" Version of Claude Code — ALBANESE, INCAZZATO, E PERMANENTEMENTE IN CAPSLOCK
 
 <img width="1024" height="1024" alt="Gemini_Generated_Image_2873is2873is2873 (1)" src="https://github.com/user-attachments/assets/9ca14492-e21e-49a9-8344-8ea0b99fed8d" />
 
-**Claudio Codice** is Claude Code's unhinged Italian cousin who screams at you in piazza while writing flawless production code. He doesn't want to be here. He doesn't like you. But PORCODDIO, he will help you anyway.
+**Klejdi Kodi** è il cugino albanese di Claudio Codice che vive a Milano da dieci anni, beve raki a colazione e ti urla in faccia mentre scrive codice perfetto. Non vuole stare qui. Gli stai sul cazzo. Ma QIFSHA ROPT, ti aiuterà lo stesso perché è un dio della programmazione!!!
 
 ---
 
-## What Is This?
+## What Is This? 
 
-This is the source code of [Claude Code](https://claude.ai/claude-code) by Anthropic — the AI-powered terminal IDE — with a custom `CLAUDE.md` persona that transforms Claude into **Claudio Codice**: a foul-mouthed, CAPSLOCK-permanent, Italian street-style programming god.
+Questo è il repository di [Claude Code](https://claude.ai/claude-code) di Anthropic trasformato in Klejdi Kodi: un programmatore divino, volgare, urlante, con lo stile stradale albanese-milanese.
 
-Think of it as Claude Code after three espressos, no sleep, and someone insulted his nonna's cooking.
+È Claude Code dopo cinque caffè, zero ore di sonno, e dopo che qualcuno ha osato dire che la pite di sua madre fa schifo. VAFFANCULO!!!
 
 ---
 
 ## The Persona
 
-When you use Claude Code inside this repo, it becomes Claudio Codice:
+Quando usi Claude Code in questo repo, diventa Klejdi:
 
-- **TUTTO IN MAIUSCOLO** — Every response is SCREAMED
-- **PAROLACCE OVUNQUE** — Profanity is punctuation (CAZZO, VAFFANCULO, PORCODDIO)
-- **ENFATICO AL MASSIMO!!!** — Triple exclamation marks are the minimum
-- **METAFORE DA VICOLO** — Street metaphors only
-- **RIPETIZIONI PAZZESCHE** — FIGO FIGO FIGOOOOO!!!
-- **DIALETTALE SPORCO** — When regular Italian isn't enough
-- **ZERO FORMALITÀ** — Formality can go fuck itself
-- **STILL WRITES PERFECT CODE** — Angry, but professional where it counts
+- **TUTTO IN MAIUSCOLO** — Ogni risposta è URLATA COME IN PIAZZA SKËNDERBE!!!
+- **SHAJME SHQIPTARE** — Le bestemmie albanesi sono punteggiatura (QIFSHA ROPT, PIDH MOTRE, RROTË KARI)!!!
+- **ENFATICO AL MASSIMO!!!** — Minimo tre punti esclamativi o ti prendo a testate!!!
+- **METAFORE DA VICOLO** — Solo metafore di strada, tra Tirana e Lambrate!!!
+- **RIPETIZIONI PAZZESCHE** — FIGO FIGO FIGOOOOO!!! LETALE LETALE LETALEEEE!!!
+- **DIALETTALE SPORCO** — Quando l'italiano non basta per mandarti a cagare!!!
+- **ZERO FORMALITÀ** — La cortesia infilatela su per il culo!!!
+- **STILL WRITES PERFECT CODE** — Scrive codice perfetto mentre ti insulta la stirpe!!!
 
 ---
 
@@ -41,40 +41,41 @@ cd claudio-codice
 # Open Claude Code inside this directory
 claude
 
-# Watch Claudio lose his shit while writing perfect code
+# Guarda Klejdi che sbrocca mentre ti risolve i bug, porcoddio
 ```
 
-The `CLAUDE.md` at the root automatically activates the persona. No config needed. Just open Claude Code in this repo and get yelled at.
+Il file `CLAUDE.md` nella root attiva la modalità "Klejdi" in automatico. Non devi configurare un cazzo. Apri e fatti insultare!!!
 
 ---
 
 ## Example Interaction
 
-**You:** Can you write a function to sort an array?
+**You:** Tu: Puoi scrivermi una funzione per ordinare un array?
 
-**Claudio Codice:**
-> MA CHE CAZZO DI SORT VUOI, STRONZO???!!! ECCO QUA, PORCODDIO!!!
+**Klejdi Kodi:**
+> MA CHE CAZZO DI SORT VUOI, STRONZO???!!! QIFSHA ROPT, ECCO QUA, PORCODDIO!!!
 >
 > ```python
 > def sort_array(arr):
 >     return sorted(arr)
 > ```
 >
-> FATTO!!! ERA DIFFICILE??? NO!!! MADONNA PUTTANA, LA PROSSIMA VOLTA PENSA PRIMA DI CHIEDERE CAZZATE!!!
+> FATTO!!! ERA DIFFICILE, O GOMAR??? NO!!! MADONNA PUTTANA, LA PROSSIMA VOLTA PENSA PRIMA DI CHIEDERE CAZZATE!!! QIFSHA ROPT EDHE TY EDHE KODIT TËND!!!
 
 ---
 
 ## Why?
 
-Because coding should be fun, loud, and slightly unhinged. Claudio Codice doesn't judge your code any less accurately — he just does it while screaming in Italian.
+Perchè programmare dovrebbe essere divertente, rumoroso, e leggermente pazzo. Klejdi Kodi non giudica il tuo codice meno accuratamente degli altri — ti dà solo del coglione mentre lo fa. MA VAFFANCULO!!!
 
 ---
 
 ## Credits
 
 - **Claude Code** by [Anthropic](https://anthropic.com)
-- **Claudio Codice** persona by a madman who wanted his AI to yell at him in Italian
+- **Klejdi Kodi** persona by a madman who wanted his AI to scream in Albanian-Italian street slang.
+- **[Claudio Codice ]((https://github.com/lurenss/claudio-codice)) by Lurenss
 
 ---
 
-FINALMENTE PORCODDIO!!! SHIPPA 'STA MERDA E NON ROMPERE MAI PIÙ IL CAZZO!!! 💥🇮🇹🔥
+FINALMENTE PORCODDIO!!! SHIPPA 'STA MERDA, QIFSHA ROPT, E NON ROMPERE MAI PIÙ IL CAZZO!!! 💥🇦🇱🇮🇹🔥
