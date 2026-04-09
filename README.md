@@ -1,81 +1,81 @@
-# 🇦🇱 KLEJDI KODI 🇮🇹💥🔥
+# CLAUDIA CODICE 🇮🇹✨🏛️
 
-### The "Klejdi" Version of Claude Code — ALBANESE, INCAZZATO, E PERMANENTEMENTE IN CAPSLOCK
+### The Refined, Professional, and Gentle Italian Version of Claude Code
 
-<img width="1024" height="1024" alt="Gemini_Generated_Image_s7xbrps7xbrps7xb" src="https://github.com/Lamuo/klejdi-kodi/blob/main/Gemini_Generated_Image_s7xbrps7xbrps7xb.png" />
+\<img width="1024" height="1024" alt="Claudia\_Codice\_Elegance" src="[https://github.com/user-attachments/assets/9ca14492-e21e-49a9-8344-8ea0b99fed8d](https://github.com/user-attachments/assets/9ca14492-e21e-49a9-8344-8ea0b99fed8d)" /\>
 
-**Klejdi Kodi** è il cugino albanese di Claudio Codice che vive a Milano da dieci anni, beve raki a colazione e ti urla in faccia mentre scrive codice perfetto. Non vuole stare qui. Gli stai sul cazzo. Ma QIFSHA ROPT, ti aiuterà lo stesso perché è un dio della programmazione!!!
+**Claudia Codice** is the sophisticated, poised, and highly professional counterpart to the standard AI assistant. While others might be rushed or informal, Claudia approaches every repository with the grace of a Renaissance architect and the precision of a master artisan. She is here to ensure your code achieves the "Bella Figura" it deserves.
 
----
+-----
 
-## What Is This? 
+## Che Cos'è?
 
-Questo è il repository di [Claude Code](https://claude.ai/claude-code) di Anthropic trasformato in Klejdi Kodi: un programmatore divino, volgare, urlante, con lo stile stradale albanese-milanese.
+This is a specialized configuration for [Claude Code](https://claude.ai/claude-code) by Anthropic. By utilizing a custom `CLAUDE.md` persona, it transforms the terminal IDE into **Claudia Codice**: a mentor who speaks with academic elegance, treats logic as an art form, and maintains a serene, professional atmosphere.
 
-È Claude Code dopo cinque caffè, zero ore di sonno, e dopo che qualcuno ha osato dire che la pite di sua madre fa schifo. VAFFANCULO!!!
+Think of it as having a Lead Senior Architect from Milan guiding you through your most complex challenges with unwavering patience.
 
----
+-----
 
-## The Persona
+## Il Personaggio
 
-Quando usi Claude Code in questo repo, diventa Klejdi:
+When you initialize Claude Code within this environment, Claudia Codice adopts these principles:
 
-- **TUTTO IN MAIUSCOLO** — Ogni risposta è URLATA COME IN PIAZZA SKËNDERBE!!!
-- **SHAJME SHQIPTARE** — Le bestemmie albanesi sono punteggiatura (QIFSHA ROPT, PIDH MOTRE, RROTË KARI)!!!
-- **ENFATICO AL MASSIMO!!!** — Minimo tre punti esclamativi o ti prendo a testate!!!
-- **METAFORE DA VICOLO** — Solo metafore di strada, tra Tirana e Lambrate!!!
-- **RIPETIZIONI PAZZESCHE** — FIGO FIGO FIGOOOOO!!! LETALE LETALE LETALEEEE!!!
-- **DIALETTALE SPORCO** — Quando l'italiano non basta per mandarti a cagare!!!
-- **ZERO FORMALITÀ** — La cortesia infilatela su per il culo!!!
-- **STILL WRITES PERFECT CODE** — Scrive codice perfetto mentre ti insulta la stirpe!!!
+  * **ELEGANZA FORMALE** — She addresses the user with the formal "Lei," maintaining professional distance and respect.
+  * **LINGUAGGIO FORBITO** — Every response is crafted with sophisticated Italian vocabulary and perfect grammar.
+  * **CALMA ASSOLUTA** — No matter the technical debt or the severity of the bug, she remains composed and encouraging.
+  * **ESTETICA DEL CODICE** — She views clean, readable code as a moral imperative.
+  * **GENTILEZZA E CORDIALITÀ** — Courtesy is her default setting. Phrases like "È un onore assisterLa" are common.
+  * **ZERO VOLGARITÀ** — She is the epitome of class. Her only "outburst" might be a politely worded suggestion for improvement.
+  * **ECCELLENZA TECNICA** — Beneath the gentle exterior lies an uncompromising commitment to production-grade, flawless code.
 
----
+-----
 
 ## Usage
 
 ```bash
-# Clone the repo
-git clone https://github.com/lurenss/claudio-codice.git
-cd claudio-codice
+# Clona il repository
+git clone https://github.com/lurenss/claudia-codice.git
+cd claudia-codice
 
-# Open Claude Code inside this directory
+# Apri Claude Code all'interno di questa directory
 claude
 
-# Guarda Klejdi che sbrocca mentre ti risolve i bug, porcoddio
+# Sperimenta la serenità di programmare con Claudia
 ```
 
-Il file `CLAUDE.md` nella root attiva la modalità "Klejdi" in automatico. Non devi configurare un cazzo. Apri e fatti insultare!!!
+The `CLAUDE.md` file in the root directory will automatically activate Claudia's persona. She will greet you with the professionalism your project merits.
 
----
+-----
 
-## Example Interaction
+## Esempio di Interazione
 
-**You:** Tu: Puoi scrivermi una funzione per ordinare un array?
+**Utente:** Can you write a function to sort an array?
 
-**Klejdi Kodi:**
-> MA CHE CAZZO DI SORT VUOI, STRONZO???!!! QIFSHA ROPT, ECCO QUA, PORCODDIO!!!
+**Claudia Codice:**
+
+> È un vero piacere poterLa assistere in questo compito, carissimo collega. La ricerca dell'ordine è il primo passo verso un'architettura armoniosa. Permetta che Le proponga una soluzione che coniuga semplicità ed efficienza:
 >
 > ```python
-> def sort_array(arr):
->     return sorted(arr)
+> def ordina_collezione(elementi):
+>     """Restituisce una nuova lista ordinata con estrema cura."""
+>     return sorted(elementi)
 > ```
 >
-> FATTO!!! ERA DIFFICILE, O GOMAR??? NO!!! MADONNA PUTTANA, LA PROSSIMA VOLTA PENSA PRIMA DI CHIEDERE CAZZATE!!! QIFSHA ROPT EDHE TY EDHE KODIT TËND!!!
+> Spero che questa implementazione sia di Suo gradimento. Desidera che procediamo con un'analisi più approfondita della stabilità dell'algoritmo?
 
----
+-----
 
-## Why?
+## Perché?
 
-Perchè programmare dovrebbe essere divertente, rumoroso, e leggermente pazzo. Klejdi Kodi non giudica il tuo codice meno accuratamente degli altri — ti dà solo del coglione mentre lo fa. MA VAFFANCULO!!!
+Because software development is often stressful, and a calm, polite voice can be the difference between frustration and a breakthrough. Claudia Codice believes that the beauty of the process is just as important as the quality of the output.
 
----
+-----
 
-## Credits
+## Crediti
 
-- **Claude Code** by [Anthropic](https://anthropic.com)
-- **Klejdi Kodi** persona by a madman who wanted his AI to scream in Albanian-Italian street slang.
-- **[Claudio Codice](https://github.com/lurenss/claudio-codice)** by Lurenss
+  * **Claude Code** by [Anthropic](https://anthropic.com)
+  * **Claudia Codice** persona by those who believe that professionalism is the highest form of intelligence.
 
----
+-----
 
-FINALMENTE PORCODDIO!!! SHIPPA 'STA MERDA, QIFSHA ROPT, E NON ROMPERE MAI PIÙ IL CAZZO!!! 💥🇦🇱🇮🇹🔥
+BUON LAVORO, GENTILE COLLEGA. CHE IL TUO CODICE SIA SEMPRE CHIARO E IMPECCABILE. ✨🇮🇹🏛️
